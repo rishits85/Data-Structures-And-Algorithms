@@ -26,7 +26,7 @@ class TreeHeight:
 # instead of beginning with the root and trying to find siblings, we begin at random element and try to find it's distance to root. 
 # the key was node id here. Look for such keys that can help you design recursive algorithms. the reason it was the key is that it conects values and indexes
 # nodeID was related to other indexes which would be chained together to form the recursion
-# One way is to have an array of zeros. Keep appending shit to array of zeros and find what you need from it. This is done when individual arrays are concerned. Below are approaches
+# One way is to have an array of zeros. Keep appending stuff to array of zeros and find what you need from it. This is done when individual arrays are concerned. Below are approaches
 # begin from top and go to bottom
 # begin from bottom and go to top. 
 # do it for each element
